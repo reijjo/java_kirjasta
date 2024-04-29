@@ -3,7 +3,6 @@ package service;
 import com.repen.cardatabase.domain.User;
 import com.repen.cardatabase.domain.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
 import org.springframework.security.core.authority.AuthorityUtils;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
